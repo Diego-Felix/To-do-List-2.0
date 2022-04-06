@@ -1,0 +1,15 @@
+h1 {
+  color: #ff2626;
+  font-family: "Grape Nuts", cursive;
+  text-align: center;
+}
+body {
+  background-color: #becbff;
+}
+input {
+  color: red;
+}
+span {
+  color: mediumorchid;
+  font-family: "Rubik Glitch", cursive;
+}
